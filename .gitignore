@@ -1,0 +1,11 @@
+bin/
+obj/
+dist/
+*.user
+*.suo
+.vs/
+.idea/
+TestResults/
+*.bak
+*.log
+.DS_Store
